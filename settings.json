@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OnFunSky.aternos.me",
-    "port": 25725,
-    "version": "",
+    "ip": "Onfunskysmp.aternos.me",
+    "port": 47400,
     "try-creative": false
   },
   "position": {
@@ -32,7 +31,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
